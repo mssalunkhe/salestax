@@ -48,7 +48,7 @@ public class Item {
 
         }
         double tax=price*taxRate/100;
-        salesTax= Math.round(tax*20.0)/20.0; //rounding value to 0.05
+        salesTax= Math.round(tax*200.0)/200.0; //rounding value to 0.05
 
 
 
